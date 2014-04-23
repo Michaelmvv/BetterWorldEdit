@@ -1,0 +1,42 @@
+name: BetterWorldEdit
+author: michaelmvv
+version: 5
+description: Better TP tool and Wand Tool
+main: me.michaelmvv.moreworldedit.MoreWorldEdit
+commands:
+  /tp:
+    description: Gives You Wordedit Compass
+    permission: BetterWorldEdit.TP
+    permission-message: You don't have MoreWorldEdit.TP
+  wtp:
+    description: Gives You Wordedit Compass
+    permission: BetterWorldEdit.TP
+    permission-message: You don't have MoreWorldEdit.TP
+  WorldEditTP:
+    description: Gives You Wordedit Compass
+    permission: BetterWorldEdit.TP
+    permission-message: You don't have MoreWorldEdit.TP
+  /WTP:
+    description: Gives You Wordedit Compass
+    permission: BetterWorldEdit.TP
+    permission-message: You don't have MoreWorldEdit.TP
+  /Wand:
+    description: Gives You Wordedit Wand
+    permission: BetterWorldEdit.wand
+    permission-message: You don't have MoreWorldEdit.wand
+  ww:
+    description: Gives You Wordedit Wand
+    permission: BetterWorldEdit.wand
+    permission-message: You don't have MoreWorldEdit.wand
+  WorldEditWand:
+    description: Gives You Wordedit Wand
+    permission: BetterWorldEdit.wand
+    permission-message: You don't have MoreWorldEdit.wand
+  /WW:
+    description: Gives You Wordedit Wand
+    permission: BetterWorldEdit.wand
+    permission-message: You don't have MoreWorldEdit.wand
+  wand:
+    description: Gives You Wordedit Wand
+    permission: BetterWorldEdit.wand
+    permission-message: You don't have MoreWorldEdit.wand
